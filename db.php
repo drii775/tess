@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root"; // Ganti dengan user database
 $pass = ""; // Ganti dengan password database
-$dbname = "security_test";
+$dbname = "tess";
 
 $conn = new mysqli($host, $user, $pass, $dbname);
 
